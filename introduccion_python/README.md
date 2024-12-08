@@ -12,25 +12,24 @@ El repositorio está organizado en las siguientes secciones:
 - **Notas**: Material adicional que incluye reflexiones y observaciones importantes del curso.
 
 ## Objetivos de aprendizaje
-## Objetivos de Aprendizaje
 
 1. [**Introducción a la programación y los sistemas computacionales**](#introducción-a-la-programación-y-los-sistemas-computacionales)  
-   - Entender cómo funcionan los lenguajes de programación y su papel en los sistemas computacionales.  
+   Entender cómo funcionan los lenguajes de programación y su papel en los sistemas computacionales.  
 
 2. [**Instrucciones básicas del lenguaje Python**](#instrucciones-básicas-del-lenguaje-python)  
-   - Aprender a escribir y ejecutar instrucciones fundamentales en Python, incluyendo variables, operadores y expresiones.
+   Aprender a escribir y ejecutar instrucciones fundamentales en Python, incluyendo variables, operadores y expresiones.
 
 3. [**Control de flujo**](#control-de-flujo)  
-   - Comprender cómo dirigir la ejecución del programa utilizando estructuras como condicionales y bucles.
+   Comprender cómo dirigir la ejecución del programa utilizando estructuras como condicionales y bucles.
 
 4. [**Funciones**](#funciones)  
-   - Crear y utilizar funciones para organizar y reutilizar código de manera eficiente.  
+   Crear y utilizar funciones para organizar y reutilizar código de manera eficiente.  
 
 5. [**Strings y archivos**](#strings-y-archivos)  
-   - Manipular cadenas de texto y trabajar con archivos para leer y escribir datos.  
+   Manipular cadenas de texto y trabajar con archivos para leer y escribir datos.  
 
 6. [**Listas**](#listas)  
-   - Entender cómo usar listas para almacenar, acceder y manipular colecciones de datos.  
+   Entender cómo usar listas para almacenar, acceder y manipular colecciones de datos.  
 
 ## Requisitos
 Para trabajar con el contenido de este repositorio, necesitas:
