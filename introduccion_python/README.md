@@ -12,17 +12,25 @@ El repositorio está organizado en las siguientes secciones:
 - **Notas**: Material adicional que incluye reflexiones y observaciones importantes del curso.
 
 ## Objetivos de aprendizaje
-**Comprender el propósito de los lenguajes de programación**  
-   - Entender cómo los lenguajes de programación nos permiten interactuar con los computadores.
+## Objetivos de Aprendizaje
 
-**Conocer los tipos de lenguajes de programación y sus características**  
-   - Diferenciar los diversos tipos de lenguajes de programación y sus principales usos.
+1. [**Introducción a la programación y los sistemas computacionales**](#introducción-a-la-programación-y-los-sistemas-computacionales)  
+   - Entender cómo funcionan los lenguajes de programación y su papel en los sistemas computacionales.  
 
-**Explorar las características del lenguaje Python**  
-   - Identificar las ventajas de Python como lenguaje versátil y amigable para principiantes.
+2. [**Instrucciones básicas del lenguaje Python**](#instrucciones-básicas-del-lenguaje-python)  
+   - Aprender a escribir y ejecutar instrucciones fundamentales en Python, incluyendo variables, operadores y expresiones.
 
-**Preparar un entorno de desarrollo para Python**  
-   - Configurar y utilizar Colab para escribir y ejecutar código Python.
+3. [**Control de flujo**](#control-de-flujo)  
+   - Comprender cómo dirigir la ejecución del programa utilizando estructuras como condicionales y bucles.
+
+4. [**Funciones**](#funciones)  
+   - Crear y utilizar funciones para organizar y reutilizar código de manera eficiente.  
+
+5. [**Strings y archivos**](#strings-y-archivos)  
+   - Manipular cadenas de texto y trabajar con archivos para leer y escribir datos.  
+
+6. [**Listas**](#listas)  
+   - Entender cómo usar listas para almacenar, acceder y manipular colecciones de datos.  
 
 ## Requisitos
 Para trabajar con el contenido de este repositorio, necesitas:
