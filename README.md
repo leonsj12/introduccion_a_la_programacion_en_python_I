@@ -12,7 +12,7 @@ El repositorio está organizado en las siguientes secciones:
 - **Notas**: Material adicional que incluye reflexiones y observaciones importantes del curso.
 
 ## Objetivos de aprendizaje
-1. [**Introducción a la programación y los sistemas computacionales**](#introducción-a-la-programación-y-los-sistemas-computacionales)  
+1. [**Introducción a la programación y los sistemas computacionales**](https://colab.research.google.com/drive/1vb2OYbCjz0CDgASzsLE1KcnPNV9tvrHg?usp=sharing)  
    Entender cómo funcionan los lenguajes de programación y su papel en los sistemas computacionales.  
 
 2. [**Instrucciones básicas del lenguaje Python**](#instrucciones-básicas-del-lenguaje-python)  
