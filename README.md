@@ -15,7 +15,7 @@ El repositorio está organizado en las siguientes secciones:
 1. [**Introducción a la programación y los sistemas computacionales**](https://colab.research.google.com/drive/1vb2OYbCjz0CDgASzsLE1KcnPNV9tvrHg?usp=sharing)  
    Entender cómo funcionan los lenguajes de programación y su papel en los sistemas computacionales.  
 
-2. [**Instrucciones básicas del lenguaje Python**](#instrucciones-básicas-del-lenguaje-python)  
+2. [**Instrucciones básicas del lenguaje Python**](https://colab.research.google.com/drive/194iDbhAczOYb0grAyn4U8TS6JxfBSq4e)  
    Aprender a escribir y ejecutar instrucciones fundamentales en Python, incluyendo variables, operadores y expresiones.
 
 3. [**Control de flujo**](#control-de-flujo)  
