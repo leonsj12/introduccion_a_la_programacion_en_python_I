@@ -18,7 +18,7 @@ El repositorio está organizado en las siguientes secciones:
 2. [**Instrucciones básicas del lenguaje Python**](https://colab.research.google.com/drive/194iDbhAczOYb0grAyn4U8TS6JxfBSq4e)  
    Aprender a escribir y ejecutar instrucciones fundamentales en Python, incluyendo variables, operadores y expresiones.
 
-3. [**Control de flujo**](#control-de-flujo)  
+3. [**Control de flujo**]([#control-de-flujo](https://colab.research.google.com/drive/1sbJ7scQmZPlSnYgwRJCWLpfWn2yjmvG4#scrollTo=EQ0llEI-uKlW))  
    Comprender cómo dirigir la ejecución del programa utilizando estructuras como condicionales y bucles.
 
 4. [**Funciones**](#funciones)  
